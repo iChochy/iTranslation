@@ -1,8 +1,7 @@
 # iTranslation
+一个简单快捷的翻译软件，支持数十种语言互译。实时翻译，快捷高效。
 
 ![iTranslation.jpg](https://image.ichochy.com/Blog/iTranslation.jpg)
-
-一个简单快捷的翻译软件。支持数十种语言互译，实时翻译，快捷高效。
 
 ## 系统支持
 macOS 15+
@@ -32,7 +31,7 @@ macOS 15+
 [https://file.ichochy.com/iTranslation.zip](https://file.ichochy.com/iTranslation.zip)   
 
 ## About 
-Blog: [https://ichochy.com](https://ichochy.com)
-Email：[it.osx@icloud.com](mailto:it.osx@icloud.com)  
-GitHub: [https://github.com/ichochy/iTranslation](https://github.com/ichochy/iTranslation)
+Blog: [https://ichochy.com](https://ichochy.com)  
+Email：[it.osx@icloud.com](mailto:it.osx@icloud.com)    
+GitHub: [https://github.com/ichochy/iTranslation](https://github.com/ichochy/iTranslation)  
 
