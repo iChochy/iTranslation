@@ -14,9 +14,8 @@ class CustomWindow: NSWindowController {
     ) {
         let hosting = NSHostingController(rootView: rootView)
         let window = NSWindow(contentViewController: hosting)
-//        window.center()
+        window.setContentSize(NSSize(width: 400, height: 300))
         window.hidesOnDeactivate = true
-        window.isReleasedWhenClosed = false
         window.collectionBehavior = [
             //            .canJoinAllSpaces,
             .moveToActiveSpace,
@@ -26,9 +25,11 @@ class CustomWindow: NSWindowController {
 
         //        window.level = .floating
         //        window.isOpaque = true
+        //        window.isReleasedWhenClosed = false
         //        window.makeKey()
         //        window.orderFrontRegardless()
-//                window.makeKeyAndOrderFront(nil)
+        //        window.makeKeyAndOrderFront(nil)
+        window.center()
         self.init(window: window)
     }
 

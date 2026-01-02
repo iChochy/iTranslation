@@ -14,7 +14,7 @@ struct BodyView: View {
     var body: some View {
         VStack {
             GeometryReader { proxy in
-                if proxy.size.width > 500 {
+                if proxy.size.width > 400 {
                     HStack {
                         SourceTextView
                         TargetTextView
